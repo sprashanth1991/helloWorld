@@ -1,4 +1,4 @@
 # helloWorld
 Example repository
 
-this is an small change
+this is a small change
